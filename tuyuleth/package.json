@@ -27,12 +27,12 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/setyamickala/kolamcupang.git"
+    "url": "git+https://github.com/tuyulmilenial/tuyuleth.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/setyamickala/kolamcupang/issues"
+    "url": "https://github.com/tuyulmilenial/tuyuleth/issues"
   },
-  "homepage": "https://github.com/setyamickala/kolamcupang#readme"
+  "homepage": "https://github.com/tuyulmilenial/tuyuleth#readme"
 }
